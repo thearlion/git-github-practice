@@ -1,14 +1,7 @@
-\# Checklist
+# Checklist
 
-
-
-\- Create a feature branch
-
-\- Add new files
-
-\- Commit changes
-
-\- Merge branch into main
-
-\- Push changes to GitHub
-
+- [x] Create a feature branch
+- [x] Add new files
+- [x] Commit changes
+- [x] Merge branch into main
+- [x] Push changes to GitHub
