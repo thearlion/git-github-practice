@@ -1,14 +1,13 @@
-\# Profile
-
-
+# Profile
 
 This file contains a short profile description.
 
+## Personal Information
 
+**Name:** Asif Guseynov  
+**Role:** Backend Developer  
 
-Name: Asif Guseynov  
+## Skills
 
-Role: System Administrator  
-
-Skills: Git, Linux, Windows, Networking
-
+- Git
+  
