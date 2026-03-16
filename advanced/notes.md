@@ -1,20 +1,10 @@
-\# Notes
-
-
+# Notes
 
 This file contains unfinished notes about advanced Git commands.
 
+## Topics
 
-
-\## Topics
-
-
-
-\- git stash
-
-\- git reset
-
-\- git fetch
-
-\- git pull
-
+- git stash
+- git reset
+- git fetch
+- git pull
