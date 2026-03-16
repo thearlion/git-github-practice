@@ -11,3 +11,5 @@ The Easy Level focuses on basic Git operations such as:
 - initializing a repository
 - creating commits
 - pushing code to GitHub
+
+readme documentation improvement.
