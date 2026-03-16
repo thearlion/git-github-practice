@@ -1,10 +1,7 @@
-\# Easy Level
+# Easy Level
 
+This repository is created for GitHub practice tasks.
 
+The Easy level focuses on basic Git commands such as initializing a repository, making commits, and pushing code to GitHub.
 
-This repository for GitHub practice tasks.
-
-The easy level for basic Git commands.
-
-It includes initializing a repository, committing files, and pushing to GitHub.
-
+It helps beginners understand the basic Git workflow.
